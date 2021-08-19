@@ -7,16 +7,9 @@ This a siple webpage I designed to showcase my projects and online-resume
 
 feel free to connect with me and reach out at any time
 
-
 ### Links
-
-- Solution URL: [(https://)]
-- Live Site URL: [(https://)]
-
-## Likes 
-
-I like Intuitive designs, codes and lots of coffee
-
+- Live Site URL: [(https://chukadiy.github.io/name-intro/)]
+- Resumé Repo: [(https://chukadiy.github.io/name-intro/)]
 
 ### Built with
 
@@ -25,6 +18,7 @@ I like Intuitive designs, codes and lots of coffee
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- JS Function Typewriter effect from css-tricks [(https://css-tricks.com/snippets/css/typewriter-effect/)]
 
 ## Author
 
