@@ -8,8 +8,8 @@ This a siple webpage I designed to showcase my projects and online-resume
 feel free to connect with me and reach out at any time
 
 ### Links
-- Live Site URL: [(https://chukadiy.github.io/name-intro/)]
-- Resumé Repo: [(https://chukadiy.github.io/name-intro/)]
+- Porfolio Landing Site URL: [(https://chukadiy.github.io/name-intro/)]
+- Resumé Live URL : [(https://chukadiy.github.io/online-resume/)]
 
 ### Built with
 
