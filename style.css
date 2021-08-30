@@ -20,7 +20,7 @@ a .logo:hover{
 .banner {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.15),rgba(0,0,0,0.65)),url(img/bg.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.35),rgba(0,0,0,0.75)),url(img/bg.jpg);
     background-size: cover;
     background-position: center center
 }
@@ -111,17 +111,17 @@ h3 {
     
 }
 button {
-    padding: 15px 25px;
-    margin: 20px;
+    padding: 10px 20px;
+    margin: 15px;
     font-size: 16px;
     letter-spacing: 1px;
     border: 2px solid #00AEFF;
     color: #fff;
     cursor: pointer;
     background: linear-gradient(to left, transparent 50%, #00AEFF 20%);
-    background-size: 200%;
+    background-size: 500%;
     background-position: left;
-    transition: background-position 0.5s;
+    transition: background-position 1s;
 }
 
 button:hover {
@@ -131,7 +131,7 @@ button:hover {
 
 .typewriter h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
+  border-right: .15em solid #00AEFF; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
